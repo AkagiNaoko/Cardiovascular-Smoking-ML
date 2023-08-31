@@ -46,7 +46,7 @@ Phase 3 -  Data Model Optimization
 Phase 4 - Data Visualization and Slides
 
 Tableau link:
-https://public.tableau.com/app/profile/ran.ji5107/viz/ML-tabaccoandMCV/Story1?publish=yes
+[https://public.tableau.com/app/profile/ran.ji5107/viz/ML-tabaccoandMCV/Story1?publish=yes](https://public.tableau.com/views/ML-tabaccoandMCV/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Target Performance:
 Our target model performance was set at an accuracy of at least 75% in predicting cardiovascular disease risk based on smoking behavior and demographic information.
