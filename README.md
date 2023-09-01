@@ -46,7 +46,7 @@ Phase 3 -  Data Model Optimization
 Phase 4 - Data Visualization and Slides
 
 Tableau link:
-[https://public.tableau.com/app/profile/ran.ji5107/viz/ML-tabaccoandMCV/Story1?publish=yes](https://public.tableau.com/views/ML-tabaccoandMCV/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/shared/HK9TQWPPN?:display_count=n&:origin=viz_share_link
 
 #### Target Performance:
 Our model performance is measured in Mean Absolute Error. We tested three models and one had a much lower mae, signaling the best performance. (See file: "Regression-Optimization-Attempts" and the section labeled Optimization attempt 2)
