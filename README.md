@@ -20,7 +20,7 @@ https://data.cdc.gov/Survey-Data/Behavioral-Risk-Factor-Data-Tobacco-Use-2011-to
 Our analysis focused on the following attributes: 
 
 Smoking Behavior: Type (e.g., cigarette, Cessation, E-Cigarette, etc.), MeasureDesc (e.g., Smoking Frequency, Quit Attempt in Past Year Among Every Day Cigarette Smokers, etc)
-Demographics: State(Geo Location), Age, gender, ethnicity, education, and others.
+Demographics: State(Geo Location), Age, gender, and other lifestyle measure (Obesity/Physical inactivity).
 
 #### Technology Stack:
 Our project utilized the following technologies:  
@@ -29,7 +29,7 @@ Python Pandas: We used Pandas for data manipulation and analysis.
 Spark: We used Spark to handle and process the distributed dataset.
 Scikit-learn: We used Scikit-learn for model development and evaluation. 
 Tensorflow: We used TensorFlow to design and train our neural network model. 
-Tableau: We used Tableau to visuallize outcomes and patterns. 
+Tableau: We used Tableau to visualize outcomes and patterns. 
 Matplotlib: We used Matplotlib to plot model performance metrics. 
 
 #### Implementation Plan
@@ -49,4 +49,4 @@ Tableau link:
 [https://public.tableau.com/app/profile/ran.ji5107/viz/ML-tabaccoandMCV/Story1?publish=yes](https://public.tableau.com/views/ML-tabaccoandMCV/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Target Performance:
-Our target model performance was set at an accuracy of at least 75% in predicting cardiovascular disease risk based on smoking behavior and demographic information.
+Our model performance is measured in Mean Absolute Error. We tested three models and one had a much lower mae, signaling the best performance. (See file: "Regression-Optimization-Attempts" and the section labeled Optimization attempt 2)
